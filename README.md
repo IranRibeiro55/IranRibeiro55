@@ -56,9 +56,6 @@ Focado em **Azure, Microsoft 365, Intune, DevOps e Automação**.
 <!-- Streak (sequência de contribuições) -->
 <img src="https://github-readme-streak-stats.herokuapp.com?user=IranRibeiro55&theme=github-dark&hide_border=true" />
 
-<!-- Linguagens mais usadas -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IranRibeiro55&layout=compact&theme=github_dark&hide_border=true" />
-
 </div>
 
 ---
