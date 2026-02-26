@@ -97,16 +97,35 @@ Interface em modo texto com **resumo da máquina**, **playbooks automáticos** (
 
 ---
 
-## 📊 GitHub
+## 📊 GitHub em números
 
 <div align="center">
 
-[![Followers](https://img.shields.io/github/followers/IranRibeiro55?style=for-the-badge&label=Seguidores&color=58A6FF)](https://github.com/IranRibeiro55?tab=followers)
-[![Repos](https://img.shields.io/badge/Reposit%C3%B3rios-p%C3%BAblicos-8B949E?style=for-the-badge)](https://github.com/IranRibeiro55?tab=repositories)
+<!-- Stats: stars, commits, PRs, issues, contribs + ranking (A+, S, etc.) -->
+<img height="200" align="center" src="https://github-readme-stats.vercel.app/api?username=IranRibeiro55&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true&custom_title=Iran%20Ribeiro%27s%20GitHub%20Stats" alt="GitHub Stats" />
 
-*Estatísticas dinâmicas (gráficos) podem ser geradas em [GitHub Readme Stats](https://github.com/anuraghazra/github-readme-stats) — use no repositório do seu perfil se quiser.*
+<!-- Top linguagens (lado a lado com o Stats) -->
+<img height="200" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IranRibeiro55&layout=compact&theme=radical&hide_border=true&langs_count=8&card_width=320" alt="Top Langs" />
 
 </div>
+
+<div align="center">
+
+<!-- Sequência de contribuições (streak) -->
+<img src="https://github-readme-streak-stats.herokuapp.com?user=IranRibeiro55&theme=radical&hide_border=true" alt="Streak" />
+
+</div>
+
+<details>
+<summary>🎨 Outros temas (copie a URL e troque <code>theme=</code>)</summary>
+
+- `theme=radical` — amarelo/verde (como na imagem)
+- `theme=github_dark` — escuro padrão GitHub
+- `theme=tokyonight` — azul/roxo
+- `theme=dracula` — roxo
+- `theme=merko` — verde
+
+</details>
 
 ---
 
