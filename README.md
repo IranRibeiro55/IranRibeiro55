@@ -19,7 +19,8 @@
 ```text
 🎯 Foco: Infraestrutura em nuvem, identidade, dispositivos e automação
 🌐 Atuação: Ambientes híbridos (on‑premises + Azure/M365)
-🛠️  Prazer: Padronizar, automatizar e deixar operações previsíveis e seguras
+🛠️ Prazer: Padronizar, automatizar e deixar operações previsíveis e seguras
+🚀 Meus projetos por questões de segurança estão privados
 ```
 
 Trabalho com **Microsoft 365, Azure e Intune** no dia a dia, desenhando e operando infraestrutura, gestão de identidade e dispositivos. Curto **automação** com **PowerShell**, **Python** e pipelines **CI/CD** para reduzir trabalho repetitivo e erros. Meu objetivo é deixar ambientes **padronizados, seguros e fáceis de operar**.
@@ -99,15 +100,6 @@ Interface em modo texto com **resumo da máquina**, **playbooks automáticos** (
 
 ## 📊 GitHub em números
 
-<div align="center">
-
-<!-- Stats: stars, commits, PRs, issues, contribs + ranking (A+, S, etc.) -->
-<img height="200" align="center" src="https://github-readme-stats.vercel.app/api?username=IranRibeiro55&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true&custom_title=Iran%20Ribeiro%27s%20GitHub%20Stats" alt="GitHub Stats" />
-
-<!-- Top linguagens (lado a lado com o Stats) -->
-<img height="200" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IranRibeiro55&layout=compact&theme=radical&hide_border=true&langs_count=8&card_width=320" alt="Top Langs" />
-
-</div>
 
 <div align="center">
 
@@ -116,16 +108,6 @@ Interface em modo texto com **resumo da máquina**, **playbooks automáticos** (
 
 </div>
 
-<details>
-<summary>🎨 Outros temas (copie a URL e troque <code>theme=</code>)</summary>
-
-- `theme=radical` — amarelo/verde (como na imagem)
-- `theme=github_dark` — escuro padrão GitHub
-- `theme=tokyonight` — azul/roxo
-- `theme=dracula` — roxo
-- `theme=merko` — verde
-
-</details>
 
 ---
 
