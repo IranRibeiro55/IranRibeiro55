@@ -25,6 +25,8 @@
 
 Trabalho com **Microsoft 365, Azure e Intune** no dia a dia, desenhando e operando infraestrutura, gestão de identidade e dispositivos. Curto **automação** com **PowerShell**, **Python** e pipelines **CI/CD** para reduzir trabalho repetitivo e erros. Meu objetivo é deixar ambientes **padronizados, seguros e fáceis de operar**.
 
+Criador do 001Travel, plataforma de criação de roteiros de viagens personalizado.
+
 **💼 Hoje sou responsável por:**
 
 - Infraestrutura em nuvem e on‑premises  
