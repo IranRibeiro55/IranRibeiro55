@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=58A6FF&center=true&vCenter=true&width=750&lines=Olá,+eu+sou+o+Iran+Ribeiro+👋;Cloud+Engineer+%7C+DevOps+%7C+Fullstack+Developer;Infraestrutura,+Automação+e+Arquitetura" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Ol%C3%A1%2C+eu+sou+o+Iran+Ribeiro+%F0%9F%91%8B" alt="Typing SVG" />
 
-### 🚀 Engenheiro de Infraestrutura · Cloud · DevOps · Desenvolvedor Fullstack
+### 🚀 Engenheiro de Infraestrutura · Cloud · DevOps · Desenvolvedor Fullstack · Automação
 
 <br>
 
