@@ -9,7 +9,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/iran-ribeiro-36284a1bb)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:iran.ribeiro55@gmail.com)
 [![Website](https://img.shields.io/badge/Website-001travel-0D9488?style=for-the-badge&logo=vercel&logoColor=white)](https://001travel.com)
-
+[![Portfolio](https://img.shields.io/badge/Portfolio-Projects-111827?style=for-the-badge&logo=github&logoColor=white)](https://iranribeiro.com)
 </div>
 
 ---
