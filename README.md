@@ -29,6 +29,7 @@ Sou engenheiro de infraestrutura com forte atuação em **Microsoft Azure, Micro
 Uno **infraestrutura + desenvolvimento**, criando soluções completas — do provisionamento em nuvem até frontend moderno e banco de dados otimizado.
 
 Criador do **001Travel**, plataforma de roteiros personalizados.
+Criador do **001Finance**, gerenciador de finanças.
 
 ---
 
