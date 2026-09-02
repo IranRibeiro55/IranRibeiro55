@@ -371,7 +371,7 @@ These cards are generated automatically inside this repository using **GitHub Ac
 <p align="center">
   <img
     src="./profile-summary-card-output/github_dark/0-profile-details.svg"
-    width="100%"
+    width="82%"
     alt="GitHub Profile Details"
   />
 </p>
@@ -379,12 +379,12 @@ These cards are generated automatically inside this repository using **GitHub Ac
 <p align="center">
   <img
     src="./profile-summary-card-output/github_dark/1-repos-per-language.svg"
-    width="49%"
+    width="40%"
     alt="Repositories per Language"
   />
   <img
     src="./profile-summary-card-output/github_dark/2-most-commit-language.svg"
-    width="49%"
+    width="40%"
     alt="Most Commit Language"
   />
 </p>
@@ -392,15 +392,29 @@ These cards are generated automatically inside this repository using **GitHub Ac
 <p align="center">
   <img
     src="./profile-summary-card-output/github_dark/3-stats.svg"
-    width="49%"
+    width="40%"
     alt="GitHub Stats"
   />
   <img
     src="./profile-summary-card-output/github_dark/4-productive-time.svg"
-    width="49%"
+    width="40%"
     alt="Productive Time"
   />
 </p>
+
+<!-- commit-activity:start -->
+
+### 📈 Public Commit Activity
+
+<p align="center">
+  <img
+    src="./assets/commit-activity.svg"
+    width="82%"
+    alt="Public Commit Activity"
+  />
+</p>
+
+<!-- commit-activity:end -->
 
 > GitHub metrics represent GitHub-visible activity. Corporate repositories, private production environments and confidential infrastructure are intentionally not exposed publicly.
 
