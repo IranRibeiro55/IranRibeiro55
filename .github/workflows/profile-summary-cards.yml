@@ -7,6 +7,8 @@ on:
   push:
     branches:
       - main
+    paths:
+      - ".github/workflows/profile-summary-cards.yml"
 
 permissions:
   contents: write
@@ -16,9 +18,15 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
       - name: Generate GitHub Profile Summary Cards
         uses: vn7n24fzkq/github-profile-summary-cards@release
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
           USERNAME: IranRibeiro55
+          BRANCH_NAME: main
+          UTC_OFFSET: -3
+          AUTO_PUSH: true
