@@ -10,6 +10,7 @@ on:
     paths:
       - ".github/workflows/profile-summary-cards.yml"
       - ".github/scripts/generate_commit_activity.py"
+      - ".github/scripts/generate_streak_card.py"
 
 permissions:
   contents: write
@@ -37,13 +38,18 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: python .github/scripts/generate_commit_activity.py
 
+      - name: Generate public commit streak card
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: python .github/scripts/generate_streak_card.py
+
       - name: Commit refreshed metrics
         shell: bash
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
 
-          git add README.md assets/commit-activity.svg profile-summary-card-output/
+          git add README.md assets/commit-activity.svg assets/streak-card.svg profile-summary-card-output/
 
           if git diff --cached --quiet; then
             echo "No metric changes to commit."
