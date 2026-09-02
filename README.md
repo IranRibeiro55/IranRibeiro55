@@ -376,6 +376,18 @@ These cards are generated automatically inside this repository using **GitHub Ac
   />
 </p>
 
+<!-- streak-card:start -->
+
+<p align="center">
+  <img
+    src="./assets/streak-card.svg"
+    width="72%"
+    alt="Public Commit Streak"
+  />
+</p>
+
+<!-- streak-card:end -->
+
 <p align="center">
   <img
     src="./profile-summary-card-output/github_dark/1-repos-per-language.svg"
