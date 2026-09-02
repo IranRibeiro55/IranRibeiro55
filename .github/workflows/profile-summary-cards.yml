@@ -1,4 +1,4 @@
-name: GitHub Profile Summary Cards
+name: GitHub Profile Metrics
 
 on:
   schedule:
@@ -9,6 +9,7 @@ on:
       - main
     paths:
       - ".github/workflows/profile-summary-cards.yml"
+      - ".github/scripts/generate_commit_activity.py"
 
 permissions:
   contents: write
@@ -29,4 +30,25 @@ jobs:
           USERNAME: IranRibeiro55
           BRANCH_NAME: main
           UTC_OFFSET: -3
-          AUTO_PUSH: true
+          AUTO_PUSH: false
+
+      - name: Generate public commit activity
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: python .github/scripts/generate_commit_activity.py
+
+      - name: Commit refreshed metrics
+        shell: bash
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+          git add README.md assets/commit-activity.svg profile-summary-card-output/
+
+          if git diff --cached --quiet; then
+            echo "No metric changes to commit."
+            exit 0
+          fi
+
+          git commit -m "chore: refresh GitHub profile metrics"
+          git push
